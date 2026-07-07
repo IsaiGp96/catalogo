@@ -1,5 +1,6 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
+import { OrderProvider } from './contexts/order-context'
 import './index.css'
 import App from './App.jsx'
 
